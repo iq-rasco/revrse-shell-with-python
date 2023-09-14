@@ -1,2 +1,4 @@
 # revrse-shell-with-python
-sampile reverse shell with python
+sample reverse shell with python
+
+Just editing ip address and Port
